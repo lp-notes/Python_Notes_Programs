@@ -11,7 +11,7 @@ Python is (or supports):
 - Dynamically Typed
 - Automatic Grabage Collected
 
-## 2. Python Comments:
+# 2. Python Comments:
 Single line comment using *#* \
 Multi line comments using *'''*
 
